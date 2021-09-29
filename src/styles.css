@@ -1,4 +1,20 @@
+
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+body{
+  background-color: yellow;
+}
+button{
+  background-color: violet;
+  border-radius:27px;
+  margin:1rem;
+}
+p{
+  background-color:white;
+  border-radius:20px;
+  height:4rem;
+  text-align:center;
+  padding:10px;
 }
